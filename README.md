@@ -1,5 +1,3 @@
-[محجر_الدولية_v3.html](https://github.com/user-attachments/files/26660793/_._v3.html)
-<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
